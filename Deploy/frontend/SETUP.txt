@@ -1,7 +1,0 @@
-Update the API base URL in:
-  lib/core/constants/constants.dart
-
-Change `baseUrl` to your claw.cloud deployed backend URL, e.g.:
-  static const String baseUrl = 'https://YOUR-APP.eu-central-1.run.claw.cloud';
-
-Then run: flutter run
